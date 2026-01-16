@@ -1,4 +1,12 @@
-# My fork of Windowlab
+# My personal fork of WindowLab
+
+If you've stumbled upon this repo, welcome to db2k's WindowLab fork. I love WindowLab, but it has a few problems I'm going to solve eventually. 
+
+### Changes from Adam's repo:
+Reverted MOD back to Alt, which is how the original WM worked
+Changed the default pallette to something a bit more soothing
+
+# Adam's fork of Windowlab
 
 This fork of windowlab focuses on fixing things that have changed over the years, like the process of getting window titles and Xft fonts. Suggestions for more fixes are welcome.
 
