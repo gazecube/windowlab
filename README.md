@@ -4,6 +4,7 @@ If you've stumbled upon this repo, welcome to db2k's WindowLab fork. I love Wind
 
 ### Changes from Adam's repo:
 Reverted MOD back to Alt, which is how the original WM worked
+
 Changed the default pallette to something a bit more soothing
 
 # Adam's fork of Windowlab
