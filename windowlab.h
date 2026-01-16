@@ -89,7 +89,7 @@ typedef struct PropMwmHints
 // use named colours, #rgb, #rrggbb or #rrrgggbbb format
 #define DEF_BORDER "#000"
 #define DEF_TEXT "#000"
-#define DEF_ACTIVE "#fd0"
+#define DEF_ACTIVE "#d48fe3"
 #define DEF_INACTIVE "#aaa"
 #define DEF_MENU "#ddd"
 #define DEF_SELECTED "#aad"
@@ -100,7 +100,7 @@ typedef struct PropMwmHints
 
 // change MODIFIER to None to remove the need to hold down a modifier key
 // the Windows key should be Mod4Mask and the Alt key is Mod1Mask
-#define MODIFIER Mod4Mask
+#define MODIFIER Mod1Mask
 
 // keys may be used by other apps, so change them here
 #define KEY_CYCLEPREV XK_Tab
