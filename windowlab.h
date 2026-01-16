@@ -89,7 +89,7 @@ typedef struct PropMwmHints
 // use named colours, #rgb, #rrggbb or #rrrgggbbb format
 #define DEF_BORDER "#000"
 #define DEF_TEXT "#000"
-#define DEF_ACTIVE "#d48fe3"
+#define DEF_ACTIVE "#d4d6f3"
 #define DEF_INACTIVE "#aaa"
 #define DEF_MENU "#ddd"
 #define DEF_SELECTED "#aad"
